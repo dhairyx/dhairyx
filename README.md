@@ -10,12 +10,12 @@
 
 ## About Me
 
-- 🎓 MSc Data Science & AI student at **TBS Education**, Toulouse — building on a first Master's in International Management
-- 📊 ~3 years across digital marketing, paid media, performance analytics, and business analysis
-- 🚀 Founder of **SKNK Digital** — WordPress development, design & digital visibility for small businesses
-- 🧠 Recurring interest in **neuromarketing** — I like decoding *why* people click, not just tracking *that* they clicked
-- 🤖 Currently building AI-agent workflows with the Anthropic API and a solo mobile game project
-- 📍 Based in Toulouse, France — open to Data Ops / Business Analyst roles across Europe
+- MSc Data Science & AI student at **TBS Education**, Toulouse — building on a first Master's in International Management
+- 3 years across digital marketing, paid media, performance analytics, and business analysis
+
+-  Recurring interest in **neuromarketing** — I like decoding *why* people click, not just tracking *that* they clicked
+- Currently building AI-agent workflows with the Anthropic API and a solo mobile game project
+- Currently in Toulouse, France — Analyst roles across Europe
 
 ---
 
