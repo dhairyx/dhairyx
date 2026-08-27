@@ -22,11 +22,11 @@
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  PLAYER: Dhairya Rajput                                   │
-│  CLASS:  Data Scientist                                   │
-│  LIVES:  ♥ ♥ ♥                                            │
-│  SCORE:  9999999 pts (rising with every model shipped)    │
-│  QUEST:  Turning raw data into level-up insights           │
+│  PLAYER: Dhairya Rajput                                  │
+│  CURRENT Skillset:  Marketing & Business Analyst         │
+│  NEXT Skillset: Data Engineer                               |
+│  QUEST:  Turning raw data into level-up insights         | 
+│  SIDE QUEST: Learn by making apps & certifications       |
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -62,19 +62,18 @@
 ## 🏆 TROPHY ROOM (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhairyx&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyx&theme=synthwave&hide_border=true" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyx&layout=compact&theme=synthwave&hide_border=true" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&row=1&column=7" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dhairyx&theme=discord&no-frame=true&row=1&column=7" width="90%"/>
 </p>
 
-> ⚠️ **Swap `YOUR_GITHUB_USERNAME` above with your real GitHub username** so the widgets pull your live stats.
 
 ---
 
@@ -144,7 +143,7 @@ Data Science / analytics certifications earned so far — full up-to-date badge 
 ## 🐍 CONTINUE? — Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/dhairyx/dhairyx/output/github-contribution-grid-snake.svg" width="90%"/>
 </p>
 
 > _This animated snake eats your contribution graph. Set it up in ~2 minutes with the free [`platane/snk`](https://github.com/Platane/snk) GitHub Action, then swap in your username above._
@@ -154,9 +153,9 @@ Data Science / analytics certifications earned so far — full up-to-date badge 
 ## 📡 MULTIPLAYER — Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="www.linkedin.com/in/dhairya-rajput/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://www.credly.com/users/dhairya-rajput.ea080099"><img src="https://img.shields.io/badge/Credly-1a1a2e?style=for-the-badge&logo=credly&logoColor=orange" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a
+  <a href="dhairyarajput350@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a
   ><a href="#"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=FFD700" /></a>
 </p>
 
@@ -166,6 +165,6 @@ Data Science / analytics certifications earned so far — full up-to-date badge 
 
 **GAME OVER? NO — INSERT COIN TO CONTINUE COLLABORATING 🕹️**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=e94560&style=for-the-badge&label=CONTINUES)
+![Profile Views](https://komarev.com/ghpvc/?username=dhairyx&color=e94560&style=for-the-badge&label=CONTINUES)
 
 </div>
