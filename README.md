@@ -1,159 +1,171 @@
-<!--
-  ============================================================
-  RETRO ARCADE GITHUB PROFILE README — CUSTOMIZATION GUIDE
-  ============================================================
-  Replace every [BRACKETED] placeholder with your own info.
-  Search for "REPLACE" to find every spot that needs your data.
-
-  A note on the theme: GitHub-flavored Markdown can't run real
-  JavaScript/CSS, so "Donkey Kong" here is built from an arcade/
-  platformer VIBE (pixel fonts, barrel/ladder emoji, "levels",
-  scoreboards, animated SVG banners) rather than Nintendo's actual
-  characters or artwork, which are trademarked and can't be
-  reproduced. If you want literal DK sprites, use your own fan-art
-  GIF hosted on your repo (not Nintendo's official assets) and
-  drop it in the banner section marked below.
-  ============================================================
--->
-
 <div align="center">
 
-<!-- Animated arcade-style banner (capsule-render) -->
-<img src="https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=PLAYER%201%20READY&fontSize=50&fontColor=FFD700&fontAlignY=38&animation=twinkling&desc=INSERT%20COIN%20TO%20CONTINUE...&descAlignY=58&descSize=18&descColor=00FF9C" width="100%"/>
+<!-- Retro arcade banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e94560,100:0f3460&height=220&section=header&text=DHAIRYA%20RAJPUT&fontSize=55&fontColor=FFD700&fontAlignY=38&animation=fadeIn&desc=DATA%20SCIENTIST%20%7C%20LEVEL%20UP%20YOUR%20DATA&descAlignY=58&descSize=20&descColor=FFFFFF" width="100%"/>
 
-<!-- Typing animation "attract mode" text -->
+<!-- Typing SVG - arcade "insert coin" style -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=HELLO+WORLD%2C+I'M+%5BYOUR+NAME%5D;FULL+STACK+DEVELOPER;LEVEL+UP+EVERY+DAY;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&height=60&lines=PRESS+START+TO+CONTINUE...;LOADING+DATA+SCIENCE+SKILLS...;LEVEL+99+DATA+EXPLORER;INSERT+COIN+TO+VIEW+PROJECTS" alt="Typing SVG" />
 </a>
 
-![Coins Collected](https://komarev.com/ghpvc/?username=REPLACE-your-github-username&label=COINS+COLLECTED&color=ffd700&style=for-the-badge)
-![Score](https://img.shields.io/badge/HIGH%20SCORE-999999-red?style=for-the-badge&logo=nintendo3ds&logoColor=white)
-
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PLAYER-Dhairya%20Rajput-e94560?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/ROLE-Data%20Scientist-FFD700?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/STATUS-Ready%20Player%20One-0f9d58?style=for-the-badge&labelColor=1a1a2e" />
+</p>
 
 ---
 
-## 🕹️ LEVEL 1 — ABOUT PLAYER
+## 🕹️ GAME HUD — ABOUT ME
 
 ```
-╔══════════════════════════════════════════════╗
-║  NAME    : [Your Full Name]                  ║
-║  CLASS   : [Your Job Title, e.g. Full-Stack]  ║
-║  BASE    : [Your City / Country]              ║
-║  QUEST   : [Your current goal, e.g. "Land a   ║
-║             role in backend engineering"]     ║
-║  XP      : [Years of experience]              ║
-║  STATUS  : 🟢 Open to opportunities           ║
-╚══════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────┐
+│  PLAYER: Dhairya Rajput                                   │
+│  CLASS:  Data Scientist                                   │
+│  LIVES:  ♥ ♥ ♥                                            │
+│  SCORE:  9999999 pts (rising with every model shipped)    │
+│  QUEST:  Turning raw data into level-up insights           │
+└──────────────────────────────────────────────────────────┘
 ```
 
-🎯 **About me:** [2–4 sentences: who you are, what you build, what excites you technically. e.g. "I'm a software engineer who loves turning messy problems into clean, tested systems. Outside of code you'll find me restoring old arcade cabinets and chasing high scores."]
+- 🎯 I build models, dashboards, and pipelines that climb the leaderboard of real business impact
+- 📊 Currently exploring: Machine Learning, Deep Learning, NLP, and Data Visualization
+- 🧠 Always grinding XP through new certifications and side-quest projects
+- 🚀 Long-term goal: Boss-level expertise in applied Data Science / AI
+- 💬 Ask me about: Python, SQL, ML pipelines, or how to beat your data problems
 
-🎮 **Interests:** [Retro gaming] · [AI/ML] · [Open source] · [Whatever else — pixel art, chess, etc.]
-
-📄 **Resume:** [![Resume](https://img.shields.io/badge/RESUME-DOWNLOAD-00FF9C?style=for-the-badge&logo=readdotcv&logoColor=black)](REPLACE-link-to-your-resume-pdf)
-
----
-
-## 👾 LEVEL 2 — POWER-UPS (SKILLS)
-
-<div align="center">
-
-<!-- REPLACE this list with your actual stack. Icons from skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,cpp,html,css,tailwind,mongodb,mysql,postgres,docker,git,githubactions,aws,figma&theme=dark" />
-
-</div>
-
-| Barrel | Category | Tools |
-|---|---|---|
-| 🛢️ | **Languages** | `[Python]` `[JavaScript]` `[Java]` `[...]` |
-| 🛢️ | **Frameworks** | `[React]` `[Node.js]` `[Django]` `[...]` |
-| 🛢️ | **Databases** | `[PostgreSQL]` `[MongoDB]` `[...]` |
-| 🛢️ | **DevOps/Cloud** | `[Docker]` `[AWS]` `[CI/CD]` `[...]` |
-| 🛢️ | **Tools** | `[Git]` `[Figma]` `[Postman]` `[...]` |
+> _Replace the bullets above with your own bio details — this is your character sheet!_
 
 ---
 
-## 🏆 LEVEL 3 — HIGH SCORES (GITHUB STATS)
+## 🍄 POWER-UPS (Skills & Tools)
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Jupyter-1a1a2e?style=for-the-badge&logo=jupyter&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Tableau-1a1a2e?style=for-the-badge&logo=tableau&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Power%20BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=FFD700" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=REPLACE-your-github-username&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE-your-github-username&theme=synthwave&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE-your-github-username&layout=compact&theme=synthwave&hide_border=true" height="165"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=REPLACE-your-github-username&theme=darkhub&no-frame=true&row=1&column=6" />
-
-</div>
-
-<!-- Animated contribution snake — closest thing to a live "arcade" animation GitHub allows.
-     Set this up once via the platane/snk GitHub Action in your profile repo, then it
-     auto-updates daily. Instructions: https://github.com/Platane/snk -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/REPLACE-your-github-username/REPLACE-your-github-username/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
+> _Trim or expand this list to match your actual toolkit._
 
 ---
 
-## 🗺️ LEVEL 4 — THE MAP (FEATURED PROJECTS)
+## 🏆 TROPHY ROOM (GitHub Stats)
 
-> 🎮 *Pin your best repos on your GitHub profile for a live-updating version of this section — but keep this table for context/links a pinned-repo card can't show.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true" width="49%"/>
+</p>
 
-| Stage | Project | Description | Tech | Links |
-|---|---|---|---|---|
-| 🏁 1-1 | **[Project Name]** | [One-line description of what it does and the problem it solves] | `[Tech Stack]` | [![Repo](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](REPLACE-repo-link) [![Live](https://img.shields.io/badge/PLAY-00FF9C?style=flat-square&logo=vercel&logoColor=black)](REPLACE-live-demo-link) |
-| 🏁 1-2 | **[Project Name]** | [One-line description] | `[Tech Stack]` | [![Repo](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](REPLACE-repo-link) |
-| 🏁 1-3 | **[Project Name]** | [One-line description] | `[Tech Stack]` | [![Repo](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](REPLACE-repo-link) |
-| 👑 BOSS | **[Your flagship / most impressive project]** | [Why it matters, scale, impact, or what makes it your "boss level"] | `[Tech Stack]` | [![Repo](https://img.shields.io/badge/CODE-181717?style=flat-square&logo=github)](REPLACE-repo-link) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true" width="60%"/>
+</p>
 
-<div align="center">
-  <a href="https://github.com/REPLACE-your-github-username?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20LEVELS-%E2%86%92-FFD700?style=for-the-badge" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&row=1&column=7" width="90%"/>
+</p>
+
+> ⚠️ **Swap `YOUR_GITHUB_USERNAME` above with your real GitHub username** so the widgets pull your live stats.
+
+---
+
+## 🎮 LEVEL SELECT — FEATURED PROJECTS
+
+<table align="center">
+  <tr>
+    <th>LEVEL</th>
+    <th>PROJECT</th>
+    <th>DESCRIPTION</th>
+    <th>TECH STACK</th>
+  </tr>
+  <tr>
+    <td>1-1</td>
+    <td><a href="#">Project Name One</a></td>
+    <td>One-line summary of what this project does and the problem it solves.</td>
+    <td>Python · Pandas · scikit-learn</td>
+  </tr>
+  <tr>
+    <td>1-2</td>
+    <td><a href="#">Project Name Two</a></td>
+    <td>One-line summary of what this project does and the problem it solves.</td>
+    <td>SQL · Tableau</td>
+  </tr>
+  <tr>
+    <td>1-3</td>
+    <td><a href="#">Project Name Three</a></td>
+    <td>One-line summary of what this project does and the problem it solves.</td>
+    <td>TensorFlow · NLP</td>
+  </tr>
+</table>
+
+> _Replace the placeholder rows with links to your actual GitHub repos, or pin your top 6 repos on your profile — GitHub will render them as cards right below this README automatically._
+
+---
+
+## 🥇 ACHIEVEMENTS UNLOCKED — Certifications (Credly)
+
+<p align="center">
+  <a href="https://www.credly.com/users/dhairya-rajput.ea080099">
+    <img src="https://img.shields.io/badge/View%20All%20Badges-Credly-orange?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
-</div>
+</p>
+
+Data Science / analytics certifications earned so far — full up-to-date badge wall is on my [**Credly profile**](https://www.credly.com/users/dhairya-rajput.ea080099):
+
+- 🏅 Certification Name — Issuing Org (Year)
+- 🏅 Certification Name — Issuing Org (Year)
+- 🏅 Certification Name — Issuing Org (Year)
+
+> _I wasn't able to pull your exact badge names automatically (Credly loads them via JavaScript), so replace the placeholder lines above with your real certifications. If you paste the names here, I can drop them straight in for you._
 
 ---
 
-## 🎖️ LEVEL 5 — ACHIEVEMENTS UNLOCKED (CERTIFICATIONS)
+## 📄 RESUME
 
-<!-- Credly badges: go to your Credly profile → each badge → "Share" → copy the embed/badge
-     image URL, and swap it in below. Or link straight to your public Credly profile. -->
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Download-Resume-e94560?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-
-<a href="REPLACE-credly-badge-link-1"><img src="REPLACE-credly-badge-image-url-1" width="110"/></a>
-<a href="REPLACE-credly-badge-link-2"><img src="REPLACE-credly-badge-image-url-2" width="110"/></a>
-<a href="REPLACE-credly-badge-link-3"><img src="REPLACE-credly-badge-image-url-3" width="110"/></a>
-<a href="REPLACE-credly-badge-link-4"><img src="REPLACE-credly-badge-image-url-4" width="110"/></a>
-
-<br/><br/>
-
-[![Credly](https://img.shields.io/badge/VIEW%20ALL%20BADGES%20ON%20CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](REPLACE-link-to-your-public-credly-profile)
-
-</div>
-
-| Badge | Certification | Issuer | Earned |
-|---|---|---|---|
-| 🏅 | [Certification Name] | [Issuing Org] | [Month Year] |
-| 🏅 | [Certification Name] | [Issuing Org] | [Month Year] |
-| 🏅 | [Certification Name] | [Issuing Org] | [Month Year] |
+> _Add a link to your hosted resume (PDF in this repo, Google Drive, or LinkedIn "Featured" link) in place of the `#` above._
 
 ---
 
-## 📡 LEVEL 6 — CONTINUE? (CONTACT)
+## 🐍 CONTINUE? — Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="90%"/>
+</p>
+
+> _This animated snake eats your contribution graph. Set it up in ~2 minutes with the free [`platane/snk`](https://github.com/Platane/snk) GitHub Action, then swap in your username above._
+
+---
+
+## 📡 MULTIPLAYER — Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://www.credly.com/users/dhairya-rajput.ea080099"><img src="https://img.shields.io/badge/Credly-1a1a2e?style=for-the-badge&logo=credly&logoColor=orange" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a
+  ><a href="#"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=FFD700" /></a>
+</p>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](REPLACE-linkedin-url)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE-your-email)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](REPLACE-x-url)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](REPLACE-portfolio-url)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:e94560,100:1a1a2e&height=120&section=footer" width="100%"/>
 
-<br/>
+**GAME OVER? NO — INSERT COIN TO CONTINUE COLLABORATING 🕹️**
 
-<img src="https://capsule-render.com/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-**`GAME OVER — INSERT COIN TO PLAY AGAIN`** 🪙
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=e94560&style=for-the-badge&label=CONTINUES)
 
 </div>
